@@ -46,7 +46,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 - Built an interactive dashboard to track key performance indicators.
 - Identified business performance patterns and potential areas for improvement.
 
-🔗 Repository: [Add your project link here]
+🔗 Repository:https://github.com/siddu-star/Sanga-Saradhi-s-portfolio/blob/36dd532f56aa0c8b1b1745fba2256311114051cc/RETAIL%20PERFORMANCE.pbix
 
 ### 2. Olist E-Commerce Analytics
 **Tools:** Azure Databricks, Spark SQL, SQL, Power BI
