@@ -90,7 +90,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [Your GitHub Profile URL]
+- **GitHub:** https://github.com/siddu-star
 - **LinkedIn:** [Your LinkedIn Profile URL]
 - **Email:** post.siddu@gmail.com
 - **Secoundary Email:** codingspace07@gmail.com
