@@ -38,17 +38,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 
 ## 📂 Featured Projects
 
-### 1. E-Commerce Sales Analytics
-**Tools:** SQL, Power BI, Excel
-
-- Analyzed e-commerce data to understand sales trends, product performance, and customer behavior.
-- Used SQL for data cleaning, transformation, aggregation, and analysis.
-- Designed an interactive Power BI dashboard for monitoring business KPIs.
-- Explored revenue patterns to support data-driven decision-making.
-
-🔗 Repository: [Add your project link here]
-
-### 2. Retail Performance Analytics
+### 1. Retail Performance Analytics
 **Tools:** SQL, Power BI, Excel
 
 - Analyzed retail sales, product categories, regional performance, and revenue trends.
@@ -58,7 +48,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 
 🔗 Repository: [Add your project link here]
 
-### 3. Olist E-Commerce Analytics
+### 2. Olist E-Commerce Analytics
 **Tools:** Azure Databricks, Spark SQL, SQL, Power BI
 
 - Developed an end-to-end analytics workflow using the Bronze, Silver, and Gold data architecture.
@@ -68,7 +58,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 
 🔗 Repository: [Add your project link here]
 
-### 4. Superstore Sales Analytics
+### 3. Superstore Sales Analytics
 **Tools:** SQL, Power BI, Excel
 
 - Explored sales, profit, customer segments, product performance, and regional trends.
