@@ -102,7 +102,8 @@ I enjoy working with datasets, solving analytical problems, building interactive
 
 - **GitHub:** [Your GitHub Profile URL]
 - **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Professional Email Address]
+- **Email:** post.siddu@gmail.com
+- **Secoundary Email:** codingspace07@gmail.com
 
 I'm open to entry-level opportunities, internships, and projects related to Data Analytics and Business Intelligence.
 
