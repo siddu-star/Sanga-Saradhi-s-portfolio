@@ -66,7 +66,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 - Created an interactive dashboard with KPIs, charts, and filters.
 - Examined sales and profitability patterns to support business decisions.
 
-🔗 Repository: [Add your project link here]
+🔗 Repository:https://github.com/siddu-star/Sanga-Saradhi-s-portfolio/blob/a3590f1b021dc75777e5b6a55e036d7f2642380d/SuperStore.pbix
 
 ---
 
