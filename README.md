@@ -56,7 +56,7 @@ I enjoy working with datasets, solving analytical problems, building interactive
 - Designed fact and dimension tables for analytical reporting.
 - Developed Power BI visualizations to analyze sales, customers, products, payments, and reviews.
 
-🔗 Repository: [Add your project link here]
+🔗 Repository: https://github.com/siddu-star/Sanga-Saradhi-s-portfolio/blob/main/olive2.pbix
 
 ### 3. Superstore Sales Analytics
 **Tools:** SQL, Power BI, Excel
